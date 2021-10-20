@@ -1,0 +1,21 @@
+@media only screen and (max-width: 992px) {
+    
+    .sections{
+        margin-left: 5PX;
+    }
+    .section{
+        margin-top: 30px;
+    }
+    .section-link{
+        margin-top: 25px;
+    }
+    
+}
+@media only screen and (max-width: 768px){
+
+
+}
+@media only screen and (max-width: 576px){
+
+
+    }
